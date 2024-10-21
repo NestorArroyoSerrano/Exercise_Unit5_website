@@ -1,0 +1,7 @@
+# Ignorar archivos temporales
+*.tmp
+*.log
+
+# Ignorar archivos específicos de editores
+.vscode/
+.DS_Store
